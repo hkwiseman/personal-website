@@ -13,7 +13,7 @@ RELATIVE_URLS = False
 
 FEED_ALL_ATOM = "feeds/all.atom.xml"
 CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
-
+THEME = "themes/flex"
 DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
