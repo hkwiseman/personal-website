@@ -17,16 +17,14 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
+    ("About", "https://harrisonkwiseman.com/about.html#about"),
     ("You can modify those links in your config file", "#"),
 )
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
+    ("linkedin", "https://www.linkedin.com/in/hkylewiseman/"),
+    ("github", "https://github.com/hkwiseman"),
 )
 
 DEFAULT_PAGINATION = 10
@@ -35,3 +33,6 @@ DEFAULT_PAGINATION = 10
 # RELATIVE_URLS = True
 
 THEME = "/Users/kylewiseman/pelican-themes/flex"
+THEME_COLOR = 'dark'
+THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
+THEME_COLOR_ENABLE_USER_OVERRIDE = True

@@ -1,0 +1,11 @@
+[build]
+  publish = "output"
+  command = "pelican content -s publishconf.py"
+
+[build.environment]
+  PYTHON_VERSION = "3.11"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

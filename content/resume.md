@@ -1,15 +1,15 @@
-Title: Harrison Kyle Wiseman - Resume
+Title: Resume
 Date: 2025-10-28
 Category: Resume
 Tags: software-engineer, resume
 Slug: harrison-wiseman-resume
-Authors: Harrison Kyle Wiseman
+Authors: Harrison Wiseman
 
-# Harrison Kyle Wiseman
-## Software Engineer
+# Resume
+## Harrison Kyle Wiseman
+### Software Engineer
 
-**Location:** Atlanta, Georgia  
-**Phone:** 704.737.9514  
+**Location:** Atlanta, Georgia    
 **Email:** hkylewiseman@gmail.com  
 **LinkedIn:** [linkedin.com/in/hkylewiseman](https://linkedin.com/in/hkylewiseman)  
 **Clearance:** Secret Clearance
