@@ -12,7 +12,6 @@ Authors: Harrison Wiseman
 **Location:** Atlanta, Georgia    
 **Email:** hkylewiseman@gmail.com  
 **LinkedIn:** [linkedin.com/in/hkylewiseman](https://linkedin.com/in/hkylewiseman)  
-**Clearance:** Secret Clearance
 
 ---
 
